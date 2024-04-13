@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  color: white;
+  width: 450px;
+  height: 300px;
+  display: inline-flex;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.card .charInfo {
+  font-size: 18px;
+}
+
+.card .deleteCharButton {
+  padding: 5px;
+  color: rgb(225, 43, 43);
+}
+
+.card .updateCharButton {
+  padding: 5px;
+  color: rgb(19, 104, 165);
+}
+
+.profileImage {
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 5px;
+}
