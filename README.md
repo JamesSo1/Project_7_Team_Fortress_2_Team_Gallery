@@ -1,6 +1,6 @@
-# Team Fortress 2 Team Gallery
+# TF2 Team Gallery
 
-This web app allows users to view all of the members of their TF2 team, add new members, delete current members, and update data(i.e. name, class, main weapon) on exisiting members.
+The TF2 Team Gallery app allows users to view all of the members of their TF2 team, add new members, delete current members, and update data(i.e. name, class, main weapon) on exisiting members.
 
 ## Features
 
