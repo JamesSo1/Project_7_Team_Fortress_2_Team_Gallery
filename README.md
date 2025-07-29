@@ -13,17 +13,9 @@ This web app allows users to view all of the members of their TF2 team, add new 
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-    <a href="https://www.loom.com/share/7ee174a3d0be4c149f240d4ba08e1793">
+<a href="https://www.loom.com/share/7ee174a3d0be4c149f240d4ba08e1793">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7ee174a3d0be4c149f240d4ba08e1793-with-play.gif">
     </a>
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with Loom  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 
 ## License
