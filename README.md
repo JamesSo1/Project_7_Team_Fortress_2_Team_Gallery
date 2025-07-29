@@ -1,31 +1,15 @@
-# Web Development Project 7 - Team Fortress 2 Team Gallery
+# Team Fortress 2 Team Gallery
 
-Submitted by: **James So**
+This web app **allows users to view all of the members of their TF2 team, add new members, delete current members, and update data(i.e. name, class, main weapon) on exisiting members.**
 
-This web app: **allows users to view all of the members of their TF2 team, add new members, delete current members, and update data(i.e. name, class, main weapon) on exisiting members.**
+## Features
 
-Time spent: **5** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] **A create form allows users to add new cremates**
-- [x] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
-- [x] **The site displays a summary page of all the user's added crewmates**
-- [x] **A previously created crewmate can be updated from the crewmate list**
-- [x] **A previously created crewmate can be deleted from the crewmate list**
-- [x] **Each crewmate has a direct, unique link to an info page about them**
-
-The following **optional** features are implemented:
-
-- [ ] A crewmate can be given a category upon creation which restricts their attributes
-- [ ] The site displays summary statistics about a user's crew on their crew page 
-- [ ] The site displays a custom "success" metric about a user's crew which changes the look of the crewmate list
-
-The following **additional** features are implemented:
-
-* [x] N/A
+- **A create form allows users to add new cremates**
+- **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
+- **The site displays a summary page of all the user's added crewmates**
+- **A previously created crewmate can be updated from the crewmate list**
+- **A previously created crewmate can be deleted from the crewmate list**
+- **Each crewmate has a direct, unique link to an info page about them**
 
 ## Video Walkthrough
 
@@ -41,9 +25,6 @@ GIF created with Loom
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-The main challenge was figuring out how to use Supabase since I was relatively new to using it. Nonetheless, I found that carefully reviewing the lab and the slides helped me figure a lot of things out regarding how to use Supabase for this project.
 
 ## License
 
